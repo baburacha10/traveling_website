@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+body
+{
+	color : yellow; 
+	margin: 0px;
+	padding: 0px;
+}
+
+type1 
+{
+	width: 30%;
+	display: block;
+	margin: 0px auto;
+}
